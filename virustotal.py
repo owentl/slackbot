@@ -6,6 +6,8 @@ import json
 import socket
 import sys
 
+## Credit to https://github.com/ecapuano/slackbot for this code!
+
 debug = "yes" # set to 'yes' to print messages to console
 
 def virustotal_search(vtarg):
